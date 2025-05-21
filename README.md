@@ -21,10 +21,6 @@ Welcome to Dev Overflow - a comprehensive StackOverflow-like platform built with
 - **Views and Voting Mechanism**: Engaging user interaction features.
 - **Filter and Pagination**: Enhanced search capabilities for a seamless experience.
 
-## Contents:
-
-This repository contains the source code and related files for the Dev Overflow app. The app is deployed and accessible at [Dev Overflow](https://devoverflow-red.vercel.app/).
-
 ## Technologies Used:
 
 - **NMongoDB**: Document database for storing and managing app data.
